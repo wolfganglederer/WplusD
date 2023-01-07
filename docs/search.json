@@ -63,6 +63,27 @@
     "text": "Ringe\nGold und Silber sind vergänglich, eine eindeutige Beschreibung ist ewig!\n\nring = \"denise\";\n// ring = \"wolfgang\";\n\nfinger_radius = ring == \"denise\" ? 9 : 9.3;\n\nrotate_extrude($fn = 300){\n   translate([finger_radius,0,0])\n   translate([0.5,-2,0])\n   hull(){\n        translate([0,4,0])circle(0.5, $fn = 50);\n        resize([1.5,4,0])translate([0.4,1,0])circle(1, $fn = 50);\n        circle(0.5, $fn = 50);\n        }\n  }"
   },
   {
+    "objectID": "wedding.html#dresscode",
+    "href": "wedding.html#dresscode",
+    "title": "👰💞🤵",
+    "section": "Dresscode",
+    "text": "Dresscode\nDenise wird ein weißes Kleid tragen und ich einen Anzug. Zieht geren das an worin Ihr euch wohl fühlt, ein kleines bisschen feierlich darf es gerne sein."
+  },
+  {
+    "objectID": "wedding.html#geschenke",
+    "href": "wedding.html#geschenke",
+    "title": "👰💞🤵",
+    "section": "Geschenke",
+    "text": "Geschenke\nWir haben alles was wir brauchen, am Besten würdet ihr uns helfen, wenn Ihr einen finanziellen Beitrag zu gelingen des Festes beisteuert."
+  },
+  {
+    "objectID": "wedding.html#zeitplan",
+    "href": "wedding.html#zeitplan",
+    "title": "👰💞🤵",
+    "section": "Zeitplan",
+    "text": "Zeitplan\n\n13:00 - 14:00 Eintreffen aller Gäste am Ort der Trauung und kleiner Snack\n14:00 Standesamtliche Trauung vor Ort beim Hochkeilhaus\n14:30 Sektempfang\n15:30 Gruppenfoto + Fotos Wolfi&Denise\n16:00 Kaffee und Kuchen\n18:00 Abendessen\n19:30 Reden, Spiele, etc.\n21:00 PAAAARTY!!! 🎉🥳"
+  },
+  {
     "objectID": "weekend.html#freitag",
     "href": "weekend.html#freitag",
     "title": "👰💞🤵",
@@ -74,7 +95,7 @@
     "href": "weekend.html#samstag",
     "title": "👰💞🤵",
     "section": "Samstag",
-    "text": "Samstag\n\nwann immer ihr aufsteht: Frühstück\nVormittags einfach was lustiges machen, spazieren gehen, Tischtennis oder Beachvolleyball spielen\nca. 12:00 Uhr Mittagessen (gemeinsam Pizza bestellen)\ndanach: Get ready for the Party!!! :)\n\n\nHochzeit\n\n13:30 - 14:00 Eintreffen aller Gäste am Ort der Trauung (tba)\n14:00 Standesamtliche Trauung vor Ort beim Hochkeilhaus\n14:30 Sektempfang\n15:30 Gruppenfoto + Fotos Wolfi&Denise\n16:00 Kaffee und Kuchen\n18:00 Abendessen\n19:30 Reden, Spiele, etc.\n21:00 PAAAARTY!!! 🎉🥳"
+    "text": "Samstag\n\nwann immer ihr aufsteht: Frühstück\nVormittags einfach was lustiges machen, spazieren gehen, Tischtennis oder Beachvolleyball spielen\ndanach: Get ready for the Party!!!\n\n\nHochzeit"
   },
   {
     "objectID": "weekend.html#sonntag",
