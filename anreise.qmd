@@ -1,0 +1,77 @@
+---
+lang: de
+---
+
+# Anreise
+
+Wir sind am Freitag ab 11:00 Uhr im Haus. Ab dann freuen wir uns auf euch!
+
+## Öffentliche Verkehrsmittel
+
+Zug ab Graz/München bis Bischofshofen, dann Postbus 590 bis Mühlbach Ortsmitte, dann Taxi (ca. 7 km) oder abholen lassen. 
+
+Zugtickets möglichst schnell buchen (Sparschiene ÖBB/ SuperSparPreis DB) —> ab 13 €
+
+### Bus
+
+**Busfahrplan:** [Mühlbach](https://salzburg-verkehr.at/wp-content/uploads/2022/11/95-590-j23-10.pdf)
+
+Busticket: In der ÖBB App erhältlich, 4,10 € 
+
+### Taxi
+
+Kontakt Taxi:  
+
+  * [+43 660 5505111](tel:+436605505111)
+  * [siggi.w@sbg.at,](mailto:siggi.w@sbg.at) 
+  * [staxi.at/](https://staxi.at/)
+
+### Bahn ab Graz
+
+| Ab | Ab | An B-Hofen | Ab Bus B-Hofen | An Mühlbach Ortsmitte |
+| --- | --- | --- | --- | --- |
+| GRZ HBF | 7:45 | 10:48 | 11:15 | 11:32 |
+| GRZ HBF | 9:12 | 12:48 | 13:45 | 14:02 |
+| GRZ HBF | 11:12 | 14:48 | 15:15 | 15:32 |
+| GRZ HBF | 14:17 | 16:48 | 17:15 | 17:32 |
+| GRZ HBF | 16:17 | 18:48 | 19:45 | 20:02 |
+
+### Bah ab München
+
+| Ab | Ab | An B-Hofen | Ab Bus B-Hofen | An Mühlbach Ortsmitte |
+| --- | --- | --- | --- | --- |
+| MUC HBF | 8:16 | 10:52 | 11:15 | 11:32 |
+| MUC HBF | 9:29 | 11:55 | 12:45 | 13:02 |
+| MUC HBF | 10:16 | 13:02 | 13:45 | 14:02 |
+| MUC HBF | 12:17 | 14:52 | 15:15 | 15:32 |
+| MUC HBF | 13:29 | 15:55 | 16:15 | 16:32 |
+| MUC HBF | 14:16 | 16:52 | 17:15 | 17:32 |
+| MUC HBF | 16:16 | 19:02 | 19:45 | 20:02 |
+
+Zeiten in der Tabelle ohne Gewähr. Bitte vor Abfahrt noch einmal prüfen.
+
+## Mit dem Auto
+
+
+:::{.callout-tip}
+Adresse Hochkeilhaus fürs Navi:
+**Mandlwandstr. 105, 5505 Mühlbach**
+:::
+
+Parkplätze sind in der Nähe des Hauses vorhanden.
+
+### Ab München Zentrum
+
+Mit Autobahn ca. 2h 20 Min. (Vignette erforderlich)
+
+Ohne Autobahn ca. 2h 45 Min. 
+
+### Ab Graz Zentrum
+
+ca. 2h 50 Min.
+
+<!-- 
+```{=html}
+<iframe width="600" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.583953857421877%2C47.16824333850091%2C13.756256103515627%2C48.315167827829626&amp;&marker=47.4145%2C13.1204&layers=ND&layer=mapnik" style="border: 1px solid black"></iframe>
+```
+ -->

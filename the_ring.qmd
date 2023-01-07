@@ -1,0 +1,28 @@
+---
+lang: de
+---
+
+# Ringe
+
+Gold und Silber sind vergänglich, eine eindeutige Beschreibung ist ewig!
+
+```{r}
+#| eval: false
+#| echo: true
+ring = "denise";
+// ring = "wolfgang";
+
+finger_radius = ring == "denise" ? 9 : 9.3;
+
+rotate_extrude($fn = 300){
+   translate([finger_radius,0,0])
+   translate([0.5,-2,0])
+   hull(){
+        translate([0,4,0])circle(0.5, $fn = 50);
+        resize([1.5,4,0])translate([0.4,1,0])circle(1, $fn = 50);
+        circle(0.5, $fn = 50);
+        }
+  }
+```
+
+![](img/ring.png)
