@@ -11,7 +11,7 @@
     "href": "anreise.html#öffentliche-verkehrsmittel",
     "title": "👰💞🤵",
     "section": "Öffentliche Verkehrsmittel",
-    "text": "Öffentliche Verkehrsmittel\nZug ab Graz/München bis Bischofshofen, dann Postbus 590 bis Mühlbach Ortsmitte, dann Taxi (ca. 7 km) oder abholen lassen.\nZugtickets möglichst schnell buchen (Sparschiene ÖBB/ SuperSparPreis DB) —> ab 13 €\n\nBus\nBusfahrplan: Mühlbach\nBusticket: In der ÖBB App erhältlich, 4,10 €\n\n\nTaxi\nKontakt Taxi:\n\n+43 660 5505111\nsiggi.w@sbg.at,\nstaxi.at/\n\n\n\nBahn ab Graz\n\n\n\nAb\nAb\nAn B-Hofen\nAb Bus B-Hofen\nAn Mühlbach Ortsmitte\n\n\n\n\nGRZ HBF\n7:45\n10:48\n11:15\n11:32\n\n\nGRZ HBF\n9:12\n12:48\n13:45\n14:02\n\n\nGRZ HBF\n11:12\n14:48\n15:15\n15:32\n\n\nGRZ HBF\n14:17\n16:48\n17:15\n17:32\n\n\nGRZ HBF\n16:17\n18:48\n19:45\n20:02\n\n\n\n\n\nBah ab München\n\n\n\nAb\nAb\nAn B-Hofen\nAb Bus B-Hofen\nAn Mühlbach Ortsmitte\n\n\n\n\nMUC HBF\n8:16\n10:52\n11:15\n11:32\n\n\nMUC HBF\n9:29\n11:55\n12:45\n13:02\n\n\nMUC HBF\n10:16\n13:02\n13:45\n14:02\n\n\nMUC HBF\n12:17\n14:52\n15:15\n15:32\n\n\nMUC HBF\n13:29\n15:55\n16:15\n16:32\n\n\nMUC HBF\n14:16\n16:52\n17:15\n17:32\n\n\nMUC HBF\n16:16\n19:02\n19:45\n20:02\n\n\n\nZeiten in der Tabelle ohne Gewähr. Bitte vor Abfahrt noch einmal prüfen."
+    "text": "Öffentliche Verkehrsmittel\nZug ab Graz/München bis Bischofshofen, dann Postbus 590 bis Mühlbach Ortsmitte, dann Taxi (ca. 7 km) oder abholen lassen.\nZugtickets möglichst schnell buchen (Sparschiene ÖBB/ SuperSparPreis DB) —> ab 13 €\n\nBus\nBusfahrplan: Mühlbach\nBusticket: In der ÖBB App erhältlich, 4,10 €\n\n\nTaxi\nKontakt Taxi:\n\n+43 660 5505111\nsiggi.w@sbg.at, (siggi.w at sbg dot at)\nstaxi.at/\n\n\n\nBahn ab Graz\n\n\n\nAb\nAb\nAn B-Hofen\nAb Bus B-Hofen\nAn Mühlbach Ortsmitte\n\n\n\n\nGRZ HBF\n7:45\n10:48\n11:15\n11:32\n\n\nGRZ HBF\n9:12\n12:48\n13:45\n14:02\n\n\nGRZ HBF\n11:12\n14:48\n15:15\n15:32\n\n\nGRZ HBF\n14:17\n16:48\n17:15\n17:32\n\n\nGRZ HBF\n16:17\n18:48\n19:45\n20:02\n\n\n\n\n\nBah ab München\n\n\n\nAb\nAb\nAn B-Hofen\nAb Bus B-Hofen\nAn Mühlbach Ortsmitte\n\n\n\n\nMUC HBF\n8:16\n10:52\n11:15\n11:32\n\n\nMUC HBF\n9:29\n11:55\n12:45\n13:02\n\n\nMUC HBF\n10:16\n13:02\n13:45\n14:02\n\n\nMUC HBF\n12:17\n14:52\n15:15\n15:32\n\n\nMUC HBF\n13:29\n15:55\n16:15\n16:32\n\n\nMUC HBF\n14:16\n16:52\n17:15\n17:32\n\n\nMUC HBF\n16:16\n19:02\n19:45\n20:02\n\n\n\nZeiten in der Tabelle ohne Gewähr. Bitte vor Abfahrt noch einmal prüfen."
   },
   {
     "objectID": "anreise.html#mit-dem-auto",
@@ -54,6 +54,20 @@
     "title": "👰💞🤵",
     "section": "Alternative - Unterkunft im Ort",
     "text": "Alternative - Unterkunft im Ort\nWer meint es nicht mit uns auszuhalten, kann gerne eines der Hotels in Mühlbach oder Bischofshofen nutzen."
+  },
+  {
+    "objectID": "mitbringen.html#bitte-mitbringen",
+    "href": "mitbringen.html#bitte-mitbringen",
+    "title": "👰💞🤵",
+    "section": "Bitte mitbringen",
+    "text": "Bitte mitbringen\n\nItem 1\nItem 2"
+  },
+  {
+    "objectID": "mitbringen.html#das-braucht-ihr-nicht",
+    "href": "mitbringen.html#das-braucht-ihr-nicht",
+    "title": "👰💞🤵",
+    "section": "Das Braucht ihr nicht",
+    "text": "Das Braucht ihr nicht\n\nunwichtiges Item 1\nnerviges Item 2"
   },
   {
     "objectID": "the_ring.html",
@@ -110,19 +124,5 @@
     "title": "👰💞🤵",
     "section": "Sonntag",
     "text": "Sonntag\n\n10:00 Weißwurstfrühstück + vegetarische Alternative (Wenn die Kinder schon früher was wollen einfach in der Küche selber bedienen)\nVormittag gemütlich gemeinsam verbringen\nAbreise bis 16:00 Uhr"
-  },
-  {
-    "objectID": "mitbringen.html#bitte-mitbringen",
-    "href": "mitbringen.html#bitte-mitbringen",
-    "title": "👰💞🤵",
-    "section": "Bitte mitbringen",
-    "text": "Bitte mitbringen\n\nItem 1\nItem 2"
-  },
-  {
-    "objectID": "mitbringen.html#das-braucht-ihr-nicht",
-    "href": "mitbringen.html#das-braucht-ihr-nicht",
-    "title": "👰💞🤵",
-    "section": "Das Braucht ihr nicht",
-    "text": "Das Braucht ihr nicht\n\nunwichtiges Item 1\nnerviges Item 2"
   }
 ]

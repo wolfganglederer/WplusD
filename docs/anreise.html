@@ -36,11 +36,11 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -169,7 +169,7 @@ ul.task-list li input[type="checkbox"] {
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><p><img src=".\img/MandlwandTest.jpg" class="img-fluid"></p>
+<main class="content" id="quarto-document-content"><p><img src=".\img/logo.jpg" class="img-fluid"></p>
 
 
 
@@ -190,7 +190,12 @@ ul.task-list li input[type="checkbox"] {
 <p>Kontakt Taxi:</p>
 <ul>
 <li><a href="tel:+436605505111">+43 660 5505111</a></li>
-<li><a href="mailto:siggi.w@sbg.at">siggi.w@sbg.at,</a></li>
+<li><script type="text/javascript">
+<!--
+h='&#x73;&#98;&#x67;&#46;&#x61;&#116;';a='&#64;';n='&#x73;&#x69;&#x67;&#x67;&#x69;&#46;&#x77;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#x73;&#x69;&#x67;&#x67;&#x69;&#46;&#x77;&#64;&#x73;&#98;&#x67;&#46;&#x61;&#116;&#44;'+'<\/'+'a'+'>');
+// -->
+</script><noscript>siggi.w@sbg.at, (siggi.w at sbg dot at)</noscript></li>
 <li><a href="https://staxi.at/">staxi.at/</a></li>
 </ul>
 </section>
@@ -461,7 +466,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return localAlternateSentinel;
     }
   }
-  let localAlternateSentinel = 'alternate';
+  let localAlternateSentinel = 'default';
   // Dark / light mode switch
   window.quartoToggleColorScheme = () => {
     // Read the current dark / light value 
