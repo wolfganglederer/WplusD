@@ -36,11 +36,11 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -123,6 +123,11 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./mitbringen.html" class="sidebar-item-text sidebar-link">Bitte Mitbringen</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./anreise.html" class="sidebar-item-text sidebar-link">Anreise</a>
   </div>
 </li>
@@ -156,7 +161,7 @@ ul.task-list li input[type="checkbox"] {
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><p><img src=".\img/MandlwandTest.jpg" class="img-fluid"></p>
+<main class="content" id="quarto-document-content"><p><img src=".\img/logo.jpg" class="img-fluid"></p>
 
 
 
@@ -187,8 +192,18 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="spiele-und-sonstige-beiträge">Spiele und sonstige Beiträge</h2>
 <p>Falls Ihr etwas zur Feier beitragen wollt, wendet Euch gerne an eine Trauzeugin oder Trauzeugen.</p>
 <ul>
-<li><a href="mailto:trauzeuge1@gmail.com">Trauzeuge 1</a></li>
-<li><a href="mailto:trauzeuge2@gmail.com">Trauzeuge 2</a></li>
+<li><script type="text/javascript">
+<!--
+h='&#x67;&#x6d;&#120;&#46;&#110;&#x65;&#116;';a='&#64;';n='&#106;&#x6f;&#104;&#x61;&#110;&#110;&#x61;&#46;&#104;&#x69;&#114;&#x73;&#x63;&#104;&#x6d;&#x75;&#x67;&#108;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#74;&#x6f;&#104;&#x61;&#110;&#110;&#x61;&#32;&#8220;&#74;&#x6f;&#106;&#x6f;&#x201d;&#32;&#72;&#x69;&#114;&#x73;&#x63;&#104;&#x6d;&#x75;&#x67;&#108;'+'<\/'+'a'+'>');
+// -->
+</script><noscript>Johanna “Jojo” Hirschmugl (johanna.hirschmugl at gmx dot net)</noscript></li>
+<li><script type="text/javascript">
+<!--
+h='&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;';a='&#64;';n='&#106;&#x61;&#110;&#46;&#x6b;&#x75;&#114;&#x6d;&#x61;&#110;&#110;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#74;&#x61;&#110;&#32;&#8220;&#x4b;&#x75;&#114;&#x6d;&#x69;&#x201d;&#32;&#x4b;&#x75;&#114;&#x6d;&#x61;&#110;&#110;'+'<\/'+'a'+'>');
+// -->
+</script><noscript>Jan “Kurmi” Kurmann (jan.kurmann at gmail dot com)</noscript></li>
 </ul>
 
 
@@ -305,7 +320,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return localAlternateSentinel;
     }
   }
-  let localAlternateSentinel = 'alternate';
+  let localAlternateSentinel = 'default';
   // Dark / light mode switch
   window.quartoToggleColorScheme = () => {
     // Read the current dark / light value 

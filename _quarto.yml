@@ -19,6 +19,8 @@ website:
         text: Hochzeit
       - href: eat_and_drink.qmd
         text: Essen und Trinken
+      - href: mitbringen.qmd
+        text: Bitte Mitbringen
       - href: anreise.qmd
         text: Anreise
       - href: the_ring.qmd     
@@ -26,11 +28,12 @@ website:
       - href: about.qmd 
         text: About
   body-header: | 
-    ![](/img/MandlwandTest.jpg)
+    ![](/img/logo.jpg)
 
 format:
   html:
+    email-obfuscation: javascript
     theme:
-      dark: darkly
       light: flatly
+      dark: darkly
     toc: true
