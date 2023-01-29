@@ -2,7 +2,7 @@
 lang: de
 ---
 
-# Partywochenende unter der Mandlwand
+# Wochenende unter der Mandlwand
 
 ![](img/WplusD.gif){fig-align="center"}
 

@@ -5,10 +5,11 @@ lang: de
 ## Bitte mitbringen
 
 
-- Item 1
-- Item 2
+- Handtücher
+- ggf. Bettwäsche, wenn ihr sie nicht vor Ort ausleihen wollt
+- Hausschuhe
+- Beachvolleyball/Fußball/Frisbee etc. 
+- Tischtennisschläger und Bälle
+- Brettspiele
+- Schuhe zum Wandern/spazieren gehen
 
-## Das Braucht ihr nicht
-
-- unwichtiges Item 1
-- nerviges Item 2

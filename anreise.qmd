@@ -12,46 +12,44 @@ Zug ab Graz/München bis Bischofshofen, dann Postbus 590 bis Mühlbach Ortsmitte
 
 Zugtickets möglichst schnell buchen (Sparschiene ÖBB/ SuperSparPreis DB) —> ab 13 €
 
-### Bus
+### Anreise Freitag, 12.05.
+### Bahn ab Graz Hauptbahnhof
 
-**Busfahrplan:** [Mühlbach](https://salzburg-verkehr.at/wp-content/uploads/2022/11/95-590-j23-10.pdf)
+|Ab Graz HBF | An B-Hofen | Ab Bus B-Hofen | An Mühlbach Ortsmitte |
+| --- | --- | --- | --- |
+| 7:45 | 10:48 | 11:15 | 11:32 |
+| 9:12 | 12:48 | 13:45 | 14:02 |
+| 11:12 | 14:48 | 15:15 | 15:32 |
+| 14:17 | 16:48 | 17:15 | 17:32 |
+| 16:17 | 18:48 | 19:45 | 20:02 |
 
-Busticket: In der ÖBB App erhältlich, 4,10 € 
+### Bahn ab München
 
-### Taxi
-
-Kontakt Taxi:  
-
-  * [+43 660 5505111](tel:+436605505111)
-  * [siggi.w@sbg.at,](mailto:siggi.w@sbg.at) 
-  * [staxi.at/](https://staxi.at/)
-
-### Bahn ab Graz
-
-| Ab | Ab | An B-Hofen | Ab Bus B-Hofen | An Mühlbach Ortsmitte |
-| --- | --- | --- | --- | --- |
-| GRZ HBF | 7:45 | 10:48 | 11:15 | 11:32 |
-| GRZ HBF | 9:12 | 12:48 | 13:45 | 14:02 |
-| GRZ HBF | 11:12 | 14:48 | 15:15 | 15:32 |
-| GRZ HBF | 14:17 | 16:48 | 17:15 | 17:32 |
-| GRZ HBF | 16:17 | 18:48 | 19:45 | 20:02 |
-
-### Bah ab München
-
-| Ab | Ab | An B-Hofen | Ab Bus B-Hofen | An Mühlbach Ortsmitte |
-| --- | --- | --- | --- | --- |
-| MUC HBF | 8:16 | 10:52 | 11:15 | 11:32 |
-| MUC HBF | 9:29 | 11:55 | 12:45 | 13:02 |
-| MUC HBF | 10:16 | 13:02 | 13:45 | 14:02 |
-| MUC HBF | 12:17 | 14:52 | 15:15 | 15:32 |
-| MUC HBF | 13:29 | 15:55 | 16:15 | 16:32 |
-| MUC HBF | 14:16 | 16:52 | 17:15 | 17:32 |
-| MUC HBF | 16:16 | 19:02 | 19:45 | 20:02 |
+| Ab MUC HBF | An B-Hofen | Ab Bus B-Hofen | An Mühlbach Ortsmitte |
+| --- | --- | --- | --- |
+| 8:16 | 10:52 | 11:15 | 11:32 |
+| 9:29 | 11:55 | 12:45 | 13:02 |
+| 10:16 | 13:02 | 13:45 | 14:02 |
+| 12:17 | 14:52 | 15:15 | 15:32 |
+| 13:29 | 15:55 | 16:15 | 16:32 |
+| 14:16 | 16:52 | 17:15 | 17:32 |
+| 16:16 | 19:02 | 19:45 | 20:02 |
 
 Zeiten in der Tabelle ohne Gewähr. Bitte vor Abfahrt noch einmal prüfen.
 
-## Mit dem Auto
+### Bus
 
+[Busfahrplan Mühlbach](https://salzburg-verkehr.at/wp-content/uploads/2022/11/95-590-j23-10.pdf), Busticket in der ÖBB App erhältlich (4,10 €) 
+
+:::{.callout-tip}
+## SiggiTaxi
+
+[staxi.at](https://staxi.at/)<br>
+[+43 660 5505111](tel:+436605505111)<br>
+[siggi.w@sbg.at](mailto:siggi.w@sbg.at) 
+:::
+
+## Mit dem Auto
 
 :::{.callout-tip}
 Adresse Hochkeilhaus fürs Navi:
@@ -75,3 +73,22 @@ ca. 2h 50 Min.
 <iframe width="600" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.583953857421877%2C47.16824333850091%2C13.756256103515627%2C48.315167827829626&amp;&marker=47.4145%2C13.1204&layers=ND&layer=mapnik" style="border: 1px solid black"></iframe>
 ```
  -->
+
+
+# Abreise Sonntag, 14.05.
+
+|Ab Mühlbach Ortsmitte | An B-Hofen | Ab B-Hofen Zug | An Graz HBF
+| ---- | ---- | ---- | ---- |
+| 8:41 | 8:59 | 9:12 | 12:14 |
+| 10:41 | 10:59 | 11:12 | 14:14 |
+| 14:41 | 14:59 | 15:12 | 18:14 |
+| 15:41 | 15:59 |  |  |  |
+| 16:41 | 16:59 | 17:12 | 20:14 |
+
+|Ab Mühlbach Ortsmitte | An B-Hofen | Ab B-Hofen Zug | An MUC HBF
+| --- | --- | --- | --- |
+|8:41 | 8:59 | 9:07 | 11:41|
+|10:41 | 10:59 | 11:07 | 13:41|
+|14:41 | 14:59 | 15:07 | 17:41|
+|15:41 | 15:59 | 16:04 | 18:31|
+|16:41 | 16:59 | 17:07 | 20:06|
