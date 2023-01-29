@@ -2,7 +2,7 @@
 lang: de
 ---
 
-# Wochenende unter der Mandlwand
+# Hochzeit unter der Mandlwand
 
 ![](img/WplusD.gif){fig-align="center"}
 

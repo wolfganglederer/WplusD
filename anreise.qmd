@@ -2,9 +2,11 @@
 lang: de
 ---
 
-# Anreise
+# Anreise/Abreise
 
-Wir sind am Freitag ab 11:00 Uhr im Haus. Ab dann freuen wir uns auf euch!
+Wir sind am Freitag ab 11:00 Uhr im Haus. Ab dann freuen wir uns auf euch! 
+
+Wie ihr wisst sind wir große Freunde öffentlicher Verkehrsmittel und des Radverkehrs. Daher freuen wir uns über alle die den Weg zu uns ohne Auto finden. Zur Motivation wartet auf alle PedalheldInnen und Öffi-Nutzende eine kleine Überraschung.
 
 ## Öffentliche Verkehrsmittel
 
@@ -12,8 +14,9 @@ Zug ab Graz/München bis Bischofshofen, dann Postbus 590 bis Mühlbach Ortsmitte
 
 Zugtickets möglichst schnell buchen (Sparschiene ÖBB/ SuperSparPreis DB) —> ab 13 €
 
-### Anreise Freitag, 12.05.
-### Bahn ab Graz Hauptbahnhof
+## Anreise Freitag, 12.05.
+
+### Graz HBF
 
 |Ab Graz HBF | An B-Hofen | Ab Bus B-Hofen | An Mühlbach Ortsmitte |
 | --- | --- | --- | --- |
@@ -23,7 +26,7 @@ Zugtickets möglichst schnell buchen (Sparschiene ÖBB/ SuperSparPreis DB) —> 
 | 14:17 | 16:48 | 17:15 | 17:32 |
 | 16:17 | 18:48 | 19:45 | 20:02 |
 
-### Bahn ab München
+### München HBF
 
 | Ab MUC HBF | An B-Hofen | Ab Bus B-Hofen | An Mühlbach Ortsmitte |
 | --- | --- | --- | --- |
@@ -35,9 +38,33 @@ Zugtickets möglichst schnell buchen (Sparschiene ÖBB/ SuperSparPreis DB) —> 
 | 14:16 | 16:52 | 17:15 | 17:32 |
 | 16:16 | 19:02 | 19:45 | 20:02 |
 
+
+## Abreise Sonntag, 14.05.
+
+
+### Graz HBF
+
+|Ab Mühlbach Ortsmitte | An B-Hofen | Ab B-Hofen Zug | An Graz HBF
+| ---- | ---- | ---- | ---- |
+| 8:41 | 8:59 | 9:12 | 12:14 |
+| 10:41 | 10:59 | 11:12 | 14:14 |
+| 14:41 | 14:59 | 15:12 | 18:14 |
+| 15:41 | 15:59 |  |  |  |
+| 16:41 | 16:59 | 17:12 | 20:14 |
+
+### München HBF
+
+|Ab Mühlbach Ortsmitte | An B-Hofen | Ab B-Hofen Zug | An MUC HBF
+| --- | --- | --- | --- |
+|8:41 | 8:59 | 9:07 | 11:41|
+|10:41 | 10:59 | 11:07 | 13:41|
+|14:41 | 14:59 | 15:07 | 17:41|
+|15:41 | 15:59 | 16:04 | 18:31|
+|16:41 | 16:59 | 17:07 | 20:06|
+
 Zeiten in der Tabelle ohne Gewähr. Bitte vor Abfahrt noch einmal prüfen.
 
-### Bus
+## Bus/Taxi
 
 [Busfahrplan Mühlbach](https://salzburg-verkehr.at/wp-content/uploads/2022/11/95-590-j23-10.pdf), Busticket in der ÖBB App erhältlich (4,10 €) 
 
@@ -60,13 +87,13 @@ Parkplätze sind in der Nähe des Hauses vorhanden.
 
 ### Ab München Zentrum
 
-Mit Autobahn ca. 2h 20 Min. (Vignette erforderlich)
+Mit Autobahn ca. 2 Stunden 20 Minuten (Vignette erforderlich)
 
-Ohne Autobahn ca. 2h 45 Min. 
+Ohne Autobahn ca. 2 Stunden 45 Minuten. 
 
 ### Ab Graz Zentrum
 
-ca. 2h 50 Min.
+ca. 2 Stunden 50 Minuten.
 
 <!-- 
 ```{=html}
@@ -75,20 +102,3 @@ ca. 2h 50 Min.
  -->
 
 
-# Abreise Sonntag, 14.05.
-
-|Ab Mühlbach Ortsmitte | An B-Hofen | Ab B-Hofen Zug | An Graz HBF
-| ---- | ---- | ---- | ---- |
-| 8:41 | 8:59 | 9:12 | 12:14 |
-| 10:41 | 10:59 | 11:12 | 14:14 |
-| 14:41 | 14:59 | 15:12 | 18:14 |
-| 15:41 | 15:59 |  |  |  |
-| 16:41 | 16:59 | 17:12 | 20:14 |
-
-|Ab Mühlbach Ortsmitte | An B-Hofen | Ab B-Hofen Zug | An MUC HBF
-| --- | --- | --- | --- |
-|8:41 | 8:59 | 9:07 | 11:41|
-|10:41 | 10:59 | 11:07 | 13:41|
-|14:41 | 14:59 | 15:07 | 17:41|
-|15:41 | 15:59 | 16:04 | 18:31|
-|16:41 | 16:59 | 17:07 | 20:06|

@@ -11,22 +11,20 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: location.qmd
-        text: Unterkunft
       - href: weekend.qmd
         text: Wochenende
       - href: wedding.qmd
         text: Hochzeit
       - href: eat_and_drink.qmd
         text: Essen und Trinken
-      - href: mitbringen.qmd
-        text: Bitte Mitbringen
+      - href: location.qmd
+        text: Unterkunft
       - href: anreise.qmd
         text: Anreise
+      - href: mitbringen.qmd
+        text: Bitte mitbringen
       - href: the_ring.qmd     
         text: Ringe
-      - href: about.qmd 
-        text: About
   body-header: | 
     ![](/img/logo.jpg)
 
