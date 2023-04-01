@@ -14,6 +14,57 @@ Da es sich um ein Selbstversorgerhaus handelt, müssen Handtücher selbst mitgeb
 
 Wir müssen das Haus besenrein verlassen. 
 
+<!-- ```{=html}
+<iframe width="780" height="630" src="bettenliste.html" title="Bettenliste"></iframe>
+```
+ -->
+```{r}
+#| column: page
+#| echo: false
+#| warning: false
+#| message: false
+
+library(tidyverse)
+library(reactable)
+library(reactablefmtr)
+library(readxl)
+
+
+# bettenliste <- read_csv2("C:/Users/wlederer/OneDrive - FMSWM/Privat/Bettenliste.csv")
+
+# /run/media/wlederer/Elements/Projekte/hochzeit_mail/website/Bettenliste
+
+
+bettenliste <- read_csv2("/run/media/wlederer/Elements/Projekte/hochzeit_mail/website/Bettenliste/Bettenliste_2.csv")
+# bettenliste <- read_xls("/run/media/wlederer/Elements/Projekte/hochzeit_mail/website/Bettenliste/Bettenliste_DE.xlsx")
+
+
+
+bettenliste |>
+  select(Nummer, Bewohner, Stock, Farbe) |>
+  reactable(
+    pagination = TRUE,
+    highlight = TRUE,
+    filterable = TRUE,
+    theme = reactableTheme(color = "black"),
+    columns = list(
+        Stock = colDef(name = "Stockwerk", ),
+        Nummer = colDef(name = "Zimmernummer"),
+        Bewohner = colDef(name = "Belegung")
+        ,
+        Farbe = colDef(
+        name = "Farbe",
+        style = function(value) {
+            color <- case_when(value == "Blau" ~ "royalblue",
+                            value == "Grün" ~ "green",
+                            value == "Orange" ~ "orange",
+                            value == "Violette" ~ "violet"
+                            )
+            list(background = color)}
+        )
+  ))
+```
+
 ## Gemeinschaftsräume und Aktivitäten
 
 Im Haus gibt es einige größere Aufenthaltsräume, unter Anderem einen Tischtennisraum wo man sich auch ein bisschen austoben kann. Im Erdgeschoss haben wir einen sehr großen Aufenthaltsraum in dem wir essen und zusammensitzen können. Dort findet am Samstag auch die Feier statt. Daneben ist eine große Gastroküche, in der wir uns das ganze Wochenende versorgen können (mehr zu Essen und Trinken [hier](eat_and_drink.qmd)). 
